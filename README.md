@@ -8,5 +8,13 @@ Key Features:
 
 This project can be useful for content creators, journalists, researchers, or anyone looking to analyze spoken content efficiently.
 
+Following are the screenshots of what interface and outcome looks like
+
 
 ![image](https://github.com/user-attachments/assets/0736321a-aabd-46d2-8ae8-caf84eb668fc)
+
+![image](https://github.com/user-attachments/assets/b82f51c8-e6f6-47e2-a690-a961bf8ec7a6)
+
+![image](https://github.com/user-attachments/assets/02069291-74ef-4825-bd46-16243e4914c0)
+
+![image](https://github.com/user-attachments/assets/d89b4631-03b9-429d-a27b-5275c12f09e0)
